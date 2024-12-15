@@ -66,12 +66,6 @@ public class FiniteAutomaton {
         }
     }
 
-
-    // Getters
-    public Set<String> getStates() {
-        return states;
-    }
-
     public Set<String> getAlphabet() {
         return alphabet;
     }
